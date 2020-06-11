@@ -1,0 +1,110 @@
+[
+{
+    "name" : "HP 15-BS179TX 2018",
+    "image" : "" ,
+    "description" : "HP laptops are among the most dependable of laptops available on the market. Here is the basic configuration of the HP 15-BS179TX 2018.",
+    "specifications" : [ "Processor : 8th Generation Intel Core i5-8250U" , "Clock Speed :  1.6 GHz" , 
+                      "RAM : 8GB DDR4 RAM" ,  "Storage : 1TB HDD " ,   "Screen Size : 15.6 inches " ,
+                      "Graphics : AMD Radeon 520 " ,"Graphics Memory : 2GB " , "Operating System : DOS" ,
+                      "Best HP Laptop under ₹ 50,000"
+                    ]
+                
+},
+{
+    "name" : "Lenovo Ideapad 530s– 81EV00BPIN" ,
+    "image" : "" ,
+    "description" : "Lenovo Ideapad is a compact laptop that comes with great features at an unbeatable price. It is the ideal laptop for both students and the modern-day IT professional. Here are some of its exciting features.",
+    "specifications" : [ "Processor : 8th Gen Intel Core i5-8250U " , " clock speed : 1.6 GHz" ,
+                       "A maximum speed of 3.4 GHz" ,  "Quad Cores with 6 MB cache", "Preloaded Windows 10 for Home and Student with lifetime validity",
+                       "Full HD (1920 X 1080p) display ",  "8GB DDR4 RAM with 2 GB NVidia GeForce MX150 graphics card",
+                       "512 GB SSD", "Extremely light and portable",  "Excellent connectivity options"
+                    ]
+} ,
+{
+    "name" : " Apple MPXQ2HN/A laptop" ,
+    "image" : "" ,
+    "description" : "Apple manufactures some of the lightest laptops in the industry. The MacOS is also one of the most comfortable to use. Here are some of the configuration details of the best laptop for photo and video editing.",
+    "specifications" : [ "Processor : Intel Core i5" , "Clock Speed : 2.3 GHz" , "RAM : 8GB LPDDR3 RAM" ,
+                      "Storage : 128GB SSHD" , "Screen Size : 13.3 inches" , "Graphics : Intel Iris Plus 640 graphics " ,
+                      "Operating System : MacOS" , "Best Laptop for Photo and video editing"
+
+                    ]
+
+} ,
+{
+    "name" : "Dell Inspiron 5570 15.6-inch FHD Laptop" ,
+    "image" : "" ,
+    "description" : "The Dell Inspiron 5570 comes with powerful configurations making it one of the best i7 laptops for gaming and other heavy activity.",
+    "specifications" : [ "Processor : 8th Generation Intel Core i7-8550U" , "Clock Speed : 1.6 GHz" ,
+                      "RAM : 8GB DDR4 RAM" , "Storage : 2TB HDD + 128GB SSD" , "Screen Size : 15.6 inches" ,
+                      "Graphics : AMD Radeon 530" ,"Graphics Memory : 4GB" ,"Operating System : Pre-installed Windows 10 with MS Office Home and Student 2016" ,
+                      "Best i7 laptop"
+                    ]
+    
+},
+{
+    "name" : "Lenovo Legion Y530 – 81FV00JKIN" ,
+    "image" : "" ,
+    "description" : "Lenovo Legion Y530 is a high-quality gaming laptop that comes with outstanding features. Students, as well as professional users, love the configuration present in this laptop because it delivers maximum output at the most reasonable prices.",
+    "specifications" : [ "Processor : 8th Generation Intel i5-8300H ", "Extremely fast clock speed of 4.0 GHz with a base speed of 2.3 G Hz",
+                      "Quad Cores with 8 MB smart cache" ,  "Preloaded Windows 10 Home Edition with a lifetime validity",
+                      "15.6-inches FHD display (1920 X 1080p) with IPS Antiglare" , "8GB DDR4 RAM" ,
+                      "High-quality NVidia GeForce GTX 1050 graphics card with 4 GB GDDR5",
+                      "1 TB HDD plus 128 GB SSD storage"
+                    ]
+    
+},
+{
+    "name" : "Apple MacBook Air 13-inch with Retina display" ,
+    "image" : "" ,
+    "description" : "Trust Apple to provide delectable features on their MacBook Air. It is the ideal all-purpose, all-day notebook that you can carry with you anywhere. Please have a glance at its stunning features.",
+    "specifications" : [ "Fantastic 13.3-inches Retina display" , "Fingerprint sensor",
+                      "Dual Core 8th Gen Intel Core i5 processor with Intel UHD graphics",
+                      "8GB RAM with fast 128 GB, 256 GB and 1.5 TB SSD storage variants.",  "High-quality stereo speakers",
+                      "Two USB Thunderbolt ports","Excellent keyboard","Long-lasting battery"
+                    ]
+    
+},
+{
+    "name" : "Dell Inspiron 5370 Intel Core i5 8th Gen 13.3-inch FHD Laptop" ,
+    "image" : "" ,
+    "description" : "A cursory glance at the configurations of this laptop will convince you that the Dell Inspiron 5370 is the best 13-inch Dell Windows laptop with SSD.",
+    "specifications" : [ "Processor : 8th Generation Intel Core i5-8250U" ,"Clock Speed : 3.4 GHz with 6MB Cache",
+                      "RAM : 8GB DDR4 RAM","Storage : 256GB SDD","Screen Size : 13.3 inches","Graphics : Intel UHD 620",
+                      "Operating System : Windows 10 Home","Best 13-inch Dell Windows laptop with SSD"
+                    ]
+    
+},
+{
+    "name" : "HP Envy 13-AD174TU 13.3-inch Laptop" ,
+    "image" : "" ,
+    "description" : "Configuration wise, this HP laptop is similar to the Dell Inspiron 5370 discussed above. Let us look at the features of this laptop in brief.",
+    "specifications" : [ "Processor : 8th Generation Intel Core i5-8250U","Clock Speed : 3.4 GHz with 6MB Cache",
+                     "RAM : 8GB LPDDR3 SDRAM","Storage : 128GB SSD", "Screen Size : 13.3 inches",
+                     "Graphics : Intel UHD Graphics 620","Operating System : Windows 10 PRO","Best 13-inch HP laptop with SSD"
+                    ]
+    
+},
+{
+    "name" : "Asus TUF FX504GD-E4363T 15.6 inch Laptop" ,
+    "image" : "" ,
+    "description" : "You need a laptop with high-quality graphics cards and dedicated graphics memory to qualify as a good one for gaming. The Asus TUF is one such best value for money gaming laptop. Look at the basic configurations of this computer.",
+    "specifications" : [ "Processor : 8th Generation Intel Core i5-8300H", "Clock Speed  : 2.3 GHz", "RAM : 8GB DDR4 RAM",
+                      "Storage : 1TB HDD and 128GB SSD", "Screen Size : 15.6 inches",
+                      "Graphics : Nvidia GeForce GTX 1050", "Graphics Memory : 4GB","Operating System : Windows 10",
+                      "Best Value for money gaming laptop"
+                    ]
+    
+},
+{
+    "name" : "ACER Predator Helios 300 Gaming Laptop" ,
+    "image" : "" ,
+    "description" : "We have seen the best value for money gaming laptop in the earlier review. Here is the best gaming laptop available in India. The configurations of this Acer Predator will do all the talking.",
+    "specifications" : [ "Processor : 7th Generation Intel Core i7-7700HQ", "Clock Speed : Up to 3.8 GHz" ,
+                       "RAM : 16GB DDR4 RAM", "Storage : Flash Memory Solid State 256 GB",
+                       "Screen Size : 15.6 inches","Graphics : Nvidia GeForce GTX 1060","Graphics Memory : 6GB dedicated GDDR5 VRAM",
+                       "Operating System : Windows 10 Home","Best Gaming laptop in India"
+                    ]
+    
+}
+]

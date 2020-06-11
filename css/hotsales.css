@@ -1,0 +1,131 @@
+*
+{
+  padding: 0%;
+  margin: 0%;
+}
+
+.coupon {
+    border: 5px white rgb(156, 149, 149); 
+    width: 80%;
+    border-radius: 29px; 
+    margin: 0 auto; 
+    max-width: 600px;
+  }
+  .a:hover
+{
+   color: black;
+   text-decoration: underline;
+}
+.a 
+{
+  text-decoration: none;
+   margin: auto;
+   color:white;
+   font-size: 17px;
+}
+  
+.container
+  {
+    padding: 2px 20px 2px;
+    padding-bottom: 10px;
+    background-color: rgb(187, 5, 41);
+  }
+  
+ .promo {
+    background: black;
+    padding: 3px;
+  }
+  p1{
+      color: burlywood;
+      font-size: 20px;
+  }
+
+
+  
+ body{
+      background-color:rgb(250, 219, 134);
+  }
+
+.expire {
+    color: burlywood;
+    font-size:20px ;
+  }
+.next
+{
+  padding-top: 40px;
+  float: right;
+  padding-right: 80px;
+  font-size: 30px;
+  font-weight: bolder;
+   animation-name: blink;
+   position: relative;
+   animation-duration: 1s;
+   animation-iteration-count: infinite;
+ }
+ 
+ @keyframes blink {
+   from { color:black;}
+   to {color:red;}
+
+}
+.a:hover
+{
+   color: rgba(169, 120, 192, 0.884);
+   text-decoration: underline;
+}
+.a 
+{
+  text-decoration: none;
+   margin: auto;
+   text-align: center;
+   color:white;
+   font-size: 20px;
+}
+.navbar
+{
+    
+        position:fixed;
+        background-color:black;    
+        width:100%;     
+        word-spacing: 100px;
+        text-align: center;      
+        margin: auto;
+}
+
+
+
+
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 100px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 10px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: rgba(169, 120, 192, 0.884)}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

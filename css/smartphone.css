@@ -1,0 +1,156 @@
+@media all
+{
+*
+{
+  padding: 0%;
+  margin: 0%;
+  
+}
+.a:hover
+{
+   color: rgba(169, 120, 192, 0.884);
+   text-decoration: underline;
+}
+.a 
+{
+  text-decoration: none;
+   margin: auto;
+   text-align: center;
+   color:white;
+   
+  
+}
+.navbar
+{
+    
+        position:fixed;
+        background-color:black;
+        font-size:17px;
+        width:100%;     
+        word-spacing: 100px;
+        text-align: center;      
+        margin: auto;
+}
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 100px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 10px 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: rgba(169, 120, 192, 0.884)}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.main
+{
+  display: flex;
+  flex-direction: column;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.a:hover
+{
+   color: rgba(94, 10, 133, 0.884);
+   text-decoration: underline;
+}
+.a
+{
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+h1
+{
+  color: rgba(94, 10, 133, 0.884);
+  padding: 30px 30px 30px 30px;
+}
+b
+{
+  letter-spacing: 3px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+  animation-name: blink;
+  position: relative;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes blink {
+  from { color: rgb(121, 236, 75);}
+  to {color: rgb(4, 82, 4);}
+  
+}
+
+h3
+{
+  color: rgba(94, 10, 133, 0.884);
+  font-style: bold;
+  font-size: 20px;
+  padding-left: 200px;
+
+}
+
+p
+{
+  font-family: Arial;
+  font-size: 20px;
+  text-align: justify;
+  width: 50%;
+  float: right;
+  word-spacing:3px;
+}
+body{
+  background-color: rgba(222, 191, 235, 0.884);
+}
+ul
+{
+  font-style: normal;
+  font-size: 20px;
+  padding-left: 200px;
+}
+.header
+{
+  text-align: center;
+  font-size: 50px;
+  padding-bottom: 100px;
+  padding-top: 30px;
+  word-spacing: 20px;
+  color: white;
+  background-color:rgb(24, 23, 23);
+}
+footer
+{
+  background-color: rgba(169, 120, 192, 0.884);
+  height: 300px;
+  text-align: center;
+  font-size: 15px;
+  word-spacing: 3px;
+  padding: 50px 90px 90px 90px;
+  font-family: Arial;
+}
+}
